@@ -86,6 +86,4 @@ The project has undergone an expanded **15-case evaluation test** covering promp
 ## 📜 License & Acknowledgments
 
 Built for the **Innoviast AI Development Internship (Week 6 Final Showcase)**.
----
 
-![App Dashboard](assets/screenshot.png)
