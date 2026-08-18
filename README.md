@@ -59,7 +59,7 @@ LogSentinel-InnoViast is an enterprise-grade AI log triage and sanitization work
 ## 🛠️ Local Setup & Installation
 
 1. **Clone the Repository:**
-git clone https://github.com/Ammar8760/LogSentinel-InnoViast.git
+git clone https://github.com/Ammar8760/LogSentinel-InnoViast-Hardened.git
 cd LogSentinel-InnoViast
 2. **Install Dependencies:**
 npm install
